@@ -52,6 +52,6 @@ This repository contains a deep learning project to train a lightweight ResNet m
 - **Optimized Model**: ~90--95% test accuracy after 200 epochs with CutMix and TTA, demonstrating improved generalization
 
 ## Contributions
-- **Ranjan (sp8171@nyu.edu)**
 - **Nishanth (nk3968@nyu.edu)**
+- **Ranjan (sp8171@nyu.edu)**
 - **Navdeep (nm4686@nyu.edu)**
